@@ -4,3 +4,6 @@ https://colab.research.google.com/drive/10S9FSyDPkOAO9_nzmZhyfGk6EqH0ndCx?usp=sh
 
 과제 2(11주차)
 https://colab.research.google.com/drive/1HOuxXV4Wt7dnPAEr9fPNqcQp4anXboGh?usp=sharing
+
+기말과제
+https://colab.research.google.com/drive/1W2mjVfWXuFz4rxteZjLFvQQVCxg0-sph?usp=sharing
